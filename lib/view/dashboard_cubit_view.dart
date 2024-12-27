@@ -9,7 +9,7 @@ class DashboardView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Dashboard'),
+        title: const Text('Ukran Tandukar Classassignment 2'),
         centerTitle: true,
       ),
       body: Padding(
